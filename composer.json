@@ -3,6 +3,7 @@
   "description": "Pipe you up!",
   "version": "1.0",
   "require": {
+    "php": ">=8.0",
     "filp/whoops": "*",
     "ext-apcu": "*"
   },
