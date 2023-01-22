@@ -1,7 +1,7 @@
 {
-  "name": "konstantin-srg/pipe-stdlib",
-  "description": "Pipe Std Lib",
-  "version": "1.1",
+  "name": "konstantin-srg/pipe",
+  "description": "Pipe you up!",
+  "version": "1.0",
   "require": {
     "filp/whoops": "*",
     "ext-apcu": "*"
